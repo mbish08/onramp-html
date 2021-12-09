@@ -183,6 +183,10 @@ strong {
 	font-weight: 400;
 }
 
+cite, em {
+	font-style: italic;
+}
+
 /*
    ====================
    Buttons
