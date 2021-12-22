@@ -207,6 +207,11 @@ cite, em {
 	font-style: italic;
 }
 
+a {
+	color: #648880;
+	text-decoration: none;
+}
+
 /*
    ====================
    Links
