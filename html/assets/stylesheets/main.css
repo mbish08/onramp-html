@@ -207,6 +207,12 @@ cite, em {
 	font-style: italic;
 }
 
+/*
+   ====================
+   Links
+   ====================
+*/
+
 a {
 	color: #648880;
 	text-decoration: none;
@@ -216,19 +222,9 @@ a:hover {
 	color: #a9b2b9;
 }
 
-/*
-   ====================
-   Links
-   ====================
-*/
-
-a:hover {
-	color: #a9b2b9;
-}
-
-a {
-	color: #648880
-}
+p a {
+	border-bottom: 1px solid #dfe2e5;
+  }
 
 /*
    ====================
