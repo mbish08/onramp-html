@@ -212,6 +212,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	color: #a9b2b9;
+}
+
 /*
    ====================
    Links
