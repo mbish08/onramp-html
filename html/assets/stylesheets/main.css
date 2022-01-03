@@ -134,6 +134,18 @@ body {
 	text-align: right;
 }
 
+.primary-footer {
+	color: #648880;
+	font-size: 14px;
+	padding-bottom: 44px;
+	padding-top: 44px;
+}
+
+.primary-footer small {
+	float: left;
+	font-weight: 400;
+}
+
 /*
    ====================
    Primary header
@@ -160,24 +172,6 @@ body {
 	font-weight: 400;
 	letter-spacing: .5px;
 	text-transform: uppercase;
-}
-
-/*
-   ====================
-   Primary footer
-   ====================
-*/
-
-.primary-footer {
-	color: #648880;
-	font-size: 14px;
-	padding-bottom: 44px;
-	padding-top: 44px;
-}
-
-.primary-footer small {
-	float: left;
-	font-weight: 400;
 }
 
 /*
