@@ -251,8 +251,13 @@ p a {
 
 .btn {
 	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
 	display: inline-block;
+	font-weight: 400;
+	letter-spacing: .5px;
 	margin: 0;
+	text-transform: uppercase;
 }
 
 .btn-alt {
