@@ -182,6 +182,10 @@ body {
 	vertical-align: top;
 }
 
+.nav li:last-child {
+	margin-right: 0;
+}
+
 .primary-footer {
 	color: #648880;
 	font-size: 14px;
