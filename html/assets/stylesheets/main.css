@@ -103,6 +103,11 @@ body {
 	padding-right: 15px;
 }
 
+.teaser img {
+	display: block;
+	max-width: 100%;
+}
+
 .teaser a:hover h3 {
 	color: #a9b2b9
 }
