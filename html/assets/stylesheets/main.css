@@ -105,6 +105,7 @@ body {
 
 .teaser img {
 	display: block;
+	margin-bottom: 22px;
 	max-width: 100%;
 }
 
