@@ -350,6 +350,7 @@ p a {
 
 .speaker-info img {
 	border-radius: 50%;
+	height: 130px;
 }
 
 .speaker {
